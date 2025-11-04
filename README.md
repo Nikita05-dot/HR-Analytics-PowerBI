@@ -65,3 +65,9 @@ The report includes interactive slicers to enable dynamic analysis:
 - Salary Range  
 - Years at Compa
 
+## 9. Dashboard Preview
+Below is a preview of the HR Analytics Dashboard:
+
+![HR Dashboard Overview](https://github.com/Nikita05-dot/HR-Analytics-PowerBI/blob/main/Screenshot%202025-11-04%20192722.png)
+
+
